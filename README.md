@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Apurv
-- 👀 I’m interested in Machine Learning and NLP
-- 🌱 I’m currently working as an AI engineer-2
+- I’m interested in Machine Learning and NLP
+- I’m currently working as an Senior MLE
 - 📫 Linkedin : https://www.linkedin.com/in/apurvsj/
 
 <!---
